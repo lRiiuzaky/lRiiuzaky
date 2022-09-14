@@ -5,9 +5,8 @@
 ## Contacto
 <a title="facebook" href="https://www.facebook.com/jonatan.steven1"><img aling="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-[<img aling="left" alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][GMAIL]
-[<img aling="left" alt="INSTAGRAM" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][INSTAGRAM]
-[<img aling="left" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<a title="LINKEDIN" href="https://www.linkedin.com/in/jonathancruzmonroy/"><img aling="left" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 <br>
 
